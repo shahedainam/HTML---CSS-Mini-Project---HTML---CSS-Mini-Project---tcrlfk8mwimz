@@ -1,1 +1,1 @@
-# html-css-project-boilerplate
+Photogallery uses with HTML and css.
